@@ -23,3 +23,8 @@ Project_3_Gender_Pay_Gap_Analysis.ipynb
 ## Dataset
 Source: [Glassdoor Gender Pay Gap Dataset](https://www.kaggle.com/datasets/nilimajauhari/glassdoor-analyze-gender-pay-gap)
 
+## Visualizations
+
+| Gender Distribution | Salary Comparison |
+|----------------------|------------------|
+| ![Bar Plot](Bar-Plot.png) | ![Box Plot](Box-Plot2.png) |
