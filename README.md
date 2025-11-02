@@ -27,4 +27,4 @@ Source: [Glassdoor Gender Pay Gap Dataset](https://www.kaggle.com/datasets/nilim
 
 | Gender Distribution | Salary Comparison |
 |----------------------|------------------|
-| ![Bar Plot](Bar-Plot.png) | ![Box Plot](Box-Plot2.png) |
+| ![Bar Plot](Bar-Plot.png) | ![Box Plot](Box-Plot.png) |
