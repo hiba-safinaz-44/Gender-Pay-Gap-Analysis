@@ -28,3 +28,11 @@ Source: [Glassdoor Gender Pay Gap Dataset](https://www.kaggle.com/datasets/nilim
 | Gender Distribution | Salary Comparison |
 |----------------------|------------------|
 | ![Bar Plot](Bar-Plot.png) | ![Box Plot](Box-Plot.png) |
+
+
+## Results
+
+- **Average Male Salary:** \$95,432.87  
+- **Average Female Salary:** \$87,654.32  
+- **Gender Pay Gap:** 8.15%  
+- The analysis shows that males earn approximately **8.15% more** than females on average in this dataset.
